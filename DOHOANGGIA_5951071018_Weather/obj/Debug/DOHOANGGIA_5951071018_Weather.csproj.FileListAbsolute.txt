@@ -1,0 +1,13 @@
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\bin\Debug\DOHOANGGIA_5951071018_Weather.exe.config
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\bin\Debug\DOHOANGGIA_5951071018_Weather.exe
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\bin\Debug\DOHOANGGIA_5951071018_Weather.pdb
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\bin\Debug\Newtonsoft.Json.dll
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\bin\Debug\Newtonsoft.Json.xml
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.csprojAssemblyReference.cache
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.Form1.resources
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.Properties.Resources.resources
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.csproj.GenerateResource.cache
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.csproj.CoreCompileInputs.cache
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.csproj.CopyComplete
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.exe
+D:\gia\lap trinh api\thuc hanh buoi 1\DOHOANGGIA_5951071018_Weather\DOHOANGGIA_5951071018_Weather\obj\Debug\DOHOANGGIA_5951071018_Weather.pdb
